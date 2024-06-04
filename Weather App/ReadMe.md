@@ -78,7 +78,7 @@ The `key.js` file contains your OpenWeatherMap API key. This key is necessary to
 
 ```javascript
 //Assign the copied API key to the 'key' variable
-key = "ba4b8b22c1f75476f1a6fa609e8befed";
+key = "Secret Key";
 
 
 ## JavaScript Logic (`script.js`)
@@ -167,7 +167,7 @@ The `style.css` file contains styling rules for the Weather App. It defines the 
 
 ## Note
 
-- Replace `'Your Api Key'` in the JavaScript code and `"ba4b8b22c1f75476f1a6fa609e8befed"` in the `key.js` file with your actual OpenWeatherMap API key.
+- Replace `'Your Api Key'` in the JavaScript code and `"Seckret Key"` in the `key.js` file with your actual OpenWeatherMap API key.
 
 ## Contributing
 
